@@ -7,4 +7,4 @@ Share knowledge, security for my forgotten mind, document for my discoveries.
 
 ### January
 
-- `15` | 📚 | [New Dialog Element](2018/january/2018-01-15.md)
+- `15` | 📚 | [New Dialog Element - HTML 5.2](2018/january/2018-01-15.md)
